@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>new test</title>
+    <url>/2022/06/02/new-test/</url>
+    <content><![CDATA[<p>四顿饭我一口吃完</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随笔</title>
+    <url>/2022/06/02/%E9%9A%8F%E7%AC%94/</url>
+    <content><![CDATA[<h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><h3 id="为什么我要写随笔"><a href="#为什么我要写随笔" class="headerlink" title="为什么我要写随笔"></a>为什么我要写随笔</h3><p>昨天我发现CSDN到达一定等级会获得一个自定义域名，这是一个物质奖励。同时，我的生活灵感也需要记录，那不如就写一写。不过我不打算直接就往CSDN上发，而是先写一个markdown形式的再转上去。这样可以做到一稿多投，在知乎、CSDN、我的个人网站（目前还只是一个设想），同时这样会让我有更大的自由感，哈哈。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2022/06/02/test/</url>
+    <content><![CDATA[<p>我在测试一下hexo的功能</p>
+]]></content>
+  </entry>
+</search>
